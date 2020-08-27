@@ -5,6 +5,33 @@ def testing_dataset():
     Aleje Trzech Wieszczów
     Kino pod Baranami
     Grota Łokietka
+    Wrocławska 3, Kraków
+    Worcławska 3, Kraków
+    Wroclawska 3, Kraków
+    Worclawska 3, Kraków
+    Adaś, Kraków
+    Nowotworek, Kraków
+    Wawel
+    Wawel, Kraków
+    Rynek, Kraków
+    highest mountain
+    highest mountain in Poland
+    Rysy, Poland
+
+    Warszawska 12 w Krakowie
+    50,0694950, 19,9434211
+
+    Osiedle Dywizjonu 303 66
+    Dywizjonu 303 66
+    Kraków Osiedle Dywizjonu 303 66
+    50.08336/20.00638
+    50m
+
+    Szkoła w Ochotnicy Górnej
+    Szkoła, Ochotnica Górna
+    School, Ochotnica Górna
+    Jana Kantego w Krakowie
+    Kaplica, Jamne
 
     import from PKW tests
     """
