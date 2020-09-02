@@ -31,8 +31,9 @@ class CachedGeocoder():
             try:
                 return self.geocoder_from_geopy.geocode(query)
             except geopy.exc.GeocoderUnavailable:
-                print("retrying")
-                time.sleep(10)
+                sleep_time_in_s = 10
+                print("will retry after", sleep_time_in_s, "seconds")
+                time.sleep(sleep_time_in_s)
                 continue
 
 def osm_url_pin(lat, lon):
